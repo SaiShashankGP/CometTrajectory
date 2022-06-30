@@ -27,4 +27,4 @@ Trajectory: Ellipse<br>
 Eccentricity: 0.28<br>
 Time Period: 348 days<br>
 ## Problem Statement
-This Problem Statement is given by Team Krithikaa of IITB. Link: https://github.com/krittikaiitb/KSP2021-selection
+This Problem Statement is given by Team Krittika of IITB. Link: https://github.com/krittikaiitb/KSP2021-selection
