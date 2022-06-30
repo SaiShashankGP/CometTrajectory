@@ -23,6 +23,6 @@ I used simple geometrical apporach to find the trajectory of the comet.
 - I got the eccentricity to be 0.28, which indicates that the orbit around the Sun is elliptical.
 - Looking at the graph between polar angle and time, we can see that the trajectory keeps repeating. We can approximate from the graph and we get the time period to be 348 days.
 ## Final answers
-Trajectory: Ellipse
-Eccentricity: 0.28
-Time Period: 348 days
+Trajectory: Ellipse<br>
+Eccentricity: 0.28<br>
+Time Period: 348 days<br>
